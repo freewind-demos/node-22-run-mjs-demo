@@ -1,0 +1,9 @@
+{
+  "name": "node-22-run-mjs-demo",
+  "version": "1.0.0",
+  "description": "A minimal demo to verify Node.js 22 can run .mjs files directly",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+} 
